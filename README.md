@@ -4,8 +4,8 @@
 👨🏻‍💻 Software Engineer passioned about tech✨<br/>
 🌱 Currently learning Python<br/>
 
-#### 😄 Fun fact:
+😄 Fun fact:
 
 🐺 Carnivorous
 
-[![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozlovdennis)](https://github.com/anuraghazra/github-readme-stats)
+[![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozlovdennis&show_icons=true)](https://github.com/anuraghazra/github-readme-stats&theme=tokyonight)
