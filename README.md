@@ -7,4 +7,7 @@
 #### 😄 Fun fact:
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=kozlovdennis&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozlovdennis&show_icons=true&theme=tokyonight&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+
+
+![Dennis's GitHub stats](https://github-readme-stats.vercel.app/api?username=kozlovdennis&show_icons=true&theme=radical)
