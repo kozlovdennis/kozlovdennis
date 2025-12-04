@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋🏻 Hi, I'm Dennis!<br><br>
 👨🏻‍💻 Software Engineer passioned about tech✨<br>
-🌱 Currently learning Python<br><br>
+🌱 Currently learning gamedev with Godot<br><br>
 😄 Fun fact:<br><br>
 🐺 Carnivorous
 
