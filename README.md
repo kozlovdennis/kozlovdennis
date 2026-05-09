@@ -1,7 +1,7 @@
 # 💫 Hi, I'm Dennis!
 👨🏻‍💻 Software Engineer passioned about tech and gamedev✨<br>
 🔭 Learning Godot🤖<br>
-🤝 I’m currently contributing to Expensica plugin for Obsidian<br>
+🤝 I’m currently developing my own project<br>
 👯 Value deep people<br>
 ### 😄 Fun facts:
 🐺 Carnivorous<br>
